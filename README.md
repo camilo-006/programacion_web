@@ -1,6 +1,6 @@
 # programacion_web
 aprendiendo comandos de git
-##titulo 2
+## titulo 2
 este titulo es mas pequeño
-###titulo3
+### titulo3
 este mucho mas
